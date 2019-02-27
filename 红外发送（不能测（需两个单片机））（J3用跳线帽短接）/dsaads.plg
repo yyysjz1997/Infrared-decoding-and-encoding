@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>礦ision3 Build Log</h1>
+<h2>Project:</h2>
+D:\yyy\yyy\yyyhust\大三下\计算机网络\大作业\红外\发送(51)+接收(stm32)代码\红外发送（不能测（需两个单片机））（J3用跳线帽短接）\dsaads.uv2
+Project File Date:  03/30/2018
+
+<h2>Output:</h2>
+创建目标 '目标 1'
+连接 ...
+Program Size: data=34.0 xdata=0 code=771
+创建 HEX 文件 "dsaads" ...
+"dsaads" - 0 个错误, 0 个警告。
+创建目标 '目标 1'
+连接 ...
+Program Size: data=34.0 xdata=0 code=771
+创建 HEX 文件 "dsaads" ...
+"dsaads" - 0 个错误, 0 个警告。
+创建目标 '目标 1'
+连接 ...
+Program Size: data=34.0 xdata=0 code=771
+创建 HEX 文件 "dsaads" ...
+"dsaads" - 0 个错误, 0 个警告。
+创建目标 '目标 1'
+连接 ...
+Program Size: data=34.0 xdata=0 code=771
+创建 HEX 文件 "dsaads" ...
+"dsaads" - 0 个错误, 0 个警告。
+创建目标 '目标 1'
+连接 ...
+Program Size: data=34.0 xdata=0 code=771
+创建 HEX 文件 "dsaads" ...
+"dsaads" - 0 个错误, 0 个警告。
+创建目标 '目标 1'
+连接 ...
+Program Size: data=34.0 xdata=0 code=771
+创建 HEX 文件 "dsaads" ...
+"dsaads" - 0 个错误, 0 个警告。
